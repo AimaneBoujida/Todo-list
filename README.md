@@ -47,7 +47,6 @@ Example prompt for deketing a task :
 
  Watch our video for detailed demonstration. 
  
-https://github.com/AishaAgarwal/To-Do-List-Application/assets/107138192/832814c7-cd21-4c85-81ed-e7192c720710
 
 ## Contributing
 Feel free to contribute to this project by creating a pull request. We welcome any improvements, bug fixes, or new features.
